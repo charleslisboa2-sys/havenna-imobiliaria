@@ -1,7 +1,7 @@
 # 🏡 Havenna Imobiliária
 
 ## 🎯 Objetivo
-Implementar JavaScript avançado para transformar uma interface estática em uma aplicação web dinâmica e interativa, aplicando:
+Implementando JavaScript avançado para transformar uma interface estática em uma aplicação web dinâmica e interativa, aplicando:
 - Manipulação do DOM
 - Sistema de Single Page Application (SPA)
 - Templates dinâmicos
